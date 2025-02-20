@@ -1,4 +1,4 @@
-)# 💫 About Me:
+💫 About Me:
 Student at 42 lyon<br>trying to learn C and c++<br>I love blockchain and crypto 
 
 
