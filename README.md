@@ -24,13 +24,13 @@ Passionate about low-level systems, network architecture, and security-oriented 
 ---
 
 ### 📌 Core Projects
-- **[Webserv](./webserv)** — Full HTTP/1.1 server built from scratch in C++98 (POSIX sockets, multiplexing).
-- **[ft_transcendence](./ft_transcendence)** — Containerized real-time web platform (Docker, React, TS, REST API).
-- **[cub3d](./cub3d)** — 3D raycasting engine written in C.
-- **[Slift](./slift)** — Mobile strength training tracking app (Flutter, SQLite).
+- **[Webserv](https://github.com/Furia25/webserv)** — Full HTTP/1.1 server built from scratch in C++98 (POSIX sockets, multiplexing).
+- **[ft_transcendence](https://github.com/Antoine-Bonin/ft_transcendence)** — Containerized real-time web platform (Docker, React, TS, REST API).
+- **[cub3d](https://github.com/Antoine-Bonin/cube3d)** — 3D raycasting engine written in C.
+- **[Slift](https://github.com/Antoine-Bonin/Slift)** — Mobile strength training tracking app (Flutter, SQLite).
 
 ---
 
 ### 📬 Connect With Me
-- **LinkedIn:** [linkedin.com/in/antoine-bonin](https://www.linkedin.com/in/antoine-bonin-498108290/)
+- **LinkedIn:** [linkedin.com/in/antoine-bonin](https://www.linkedin.com/in/antoine-bonin-7a9010295/)
 - **Email:** antoine.bonin78@gmail.com
