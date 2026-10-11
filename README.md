@@ -16,7 +16,7 @@ Passionate about low-level systems, network architecture, and security-oriented 
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | C, C++98, TypeScript, JavaScript, SQL, Dart, Bash |
+| **Languages** | C, C++, TypeScript, JavaScript, Solidity, SQL, Bash |
 | **Back-End & Systems** | POSIX Sockets, TCP/IP, HTTP/1.1, Node.js, SQLite |
 | **Front-End** | React, Tailwind CSS, Redux, Flutter |
 | **Infra & DevOps** | Docker, Linux (Ubuntu), Git, Makefiles |
