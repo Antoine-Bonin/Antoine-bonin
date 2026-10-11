@@ -24,7 +24,7 @@ Passionate about low-level systems, network architecture, and security-oriented 
 ---
 
 ### 📌 Core Projects
-- **[Webserv](https://github.com/Furia25/webserv)** — Full HTTP/1.1 server built from scratch in C++98 (POSIX sockets, multiplexing).
+- **[Webserv](https://github.com/Antoine-Bonin/webserv)** — Full HTTP/1.1 server built from scratch in C++98 (POSIX sockets, multiplexing).
 - **[ft_transcendence](https://github.com/Antoine-Bonin/ft_transcendence)** — Containerized real-time web platform (Docker, React, TS, REST API).
 - **[cub3d](https://github.com/Antoine-Bonin/cube3d)** — 3D raycasting engine written in C.
 - **[Slift](https://github.com/Antoine-Bonin/Slift)** — Mobile strength training tracking app (Flutter, SQLite).
